@@ -36,4 +36,4 @@ a ssh cmd tool that intergration of:
     * dssh <id>   dssh <alias> 两种调用方式
 
 
-![dssh.png](dssh)
+![https://github.com/libratwo/Personal_terminal_ssh_cmdtool/blob/master/dssh.png](dssh)
